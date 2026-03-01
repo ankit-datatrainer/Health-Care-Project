@@ -1,0 +1,6 @@
+SrNo,Cluster,District,Block,PHC,Patient,Age,Gender,OPDNo,ConsultDate,StartTime,EndTime,Specialization,Doctor,PatientCaseID,ReferredBy,Designation,LTName,Qualification,ApprovalDate,complaint
+1,Cluster 1,Betul,Betul,PHC 45,PRIYANSHU,15 Years,Male,1692,27-02-2025,13:48:01,13:50:01,Pediatrics,Doctor 1,5225325,dr billo bai,Medical Officer,Ramesh Dhatura,DMLT,21-06-2022,loose motion
+2,Cluster 1,Betul,Betul,PHC 78,GOPAL,13 Years,Male,16 91,26-02-2025,17:45:35,17:47:35,Pediatrics,Doctor 34,5225326,dr rajni devi,Medical Officer,Divyesh Thakur,DMLT,21-07-2023,u r t i
+3,Cluster 1,Betul,Betul,PHC 345,KARTIK,11 Years,Female,1690,28-02-2025,12:03:45,12:05:45,Pediatrics,Doctor 24,5225327,dr kamal vyas,Medical Officer,Mohit Kumar,DMLT,21-06-2024,abdomen pain
+4,Cluster 1,Betul,Betul,PHC 560,GANESH,13 Years,Male,1679,18-02-2025,10:33:35,10:35:35,Pediatrics,Doctor 100,5225328,dr jalebi bai,Medical Officer,Kranti Patel,DMLT,21-06-2021,itching
+5,Cluster 1,Betul,Betul,PHC 605,SHIVAM,10 Years,Male,1678,28-02-2025,16:29:59,16:31:59,Pediatrics,Doctor 64,5225329,dr shivgami devi,Medical Officer,Sweety Verma,DMLT,21-06-2022,loose motion
